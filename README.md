@@ -1,3 +1,7 @@
+**Important** : This repo is not used anymore. Any future updates and/or improvements will be visible here:
+
+https://github.com/AlbertCerfeda/SwingPacman
+
 # PACMAN
 
 This is a classic Pacman game implemented in Java. 
